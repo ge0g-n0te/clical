@@ -8,12 +8,12 @@
 + `argparse`: для написання *CLI* логіки.
 
 ## Інтерфейс
-Плаваючі аргументи:
-- `-v, --version`: версія програми.
-- `-f, --first-number [INT]`: перше число.
-- `-s, --second-number [INT]`: друге число.
-Статичні аргументи:
-- `func, [add, sub, mul, div]`: арифметичний оператор, статичний аргумент.
++ Плаваючі аргументи:
+    - `-v, --version`: версія програми.
+    - `-f, --first-number [INT]`: перше число.
+    - `-s, --second-number [INT]`: друге число.
++ Статичні аргументи:
+    - `func, [add, sub, mul, div]`: арифметичний оператор, статичний аргумент.
 
 ```bash
 # { clical [func] -f [FIRST NUMBER (int)] -s [SECOND NUMBER (INT)] }
