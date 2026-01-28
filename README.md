@@ -35,7 +35,7 @@ clical div -f 10 -s 2
 - `src`: вихідний код програми.
     - `cli_interface.py`: логіка CLI інтерфейсу.
         - взаємодія з `argparse`.
-    - `arithmetic_functons.py`: карифметичні функції.
+    - `arithmetic_functons.py`: арифметичні функції.
 
 - `tests`: вихідний код тестів.
 
